@@ -48,6 +48,7 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
+---
 ```
    import numpy as np
 import pandas as pd
@@ -241,6 +242,7 @@ plt.title("Perceptron Training Error")
 plt.grid(True)
 plt.show()
 ```
+---
 
 # OUTPUT:
 <img width="1027" height="603" alt="image" src="https://github.com/user-attachments/assets/78a22691-cb94-4fc7-9da5-e3c1b92a5fca" />
